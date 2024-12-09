@@ -1,0 +1,4 @@
+invoice_id,customer_name,date,total_amount,item1_name,item1_quantity,item1_unit_price,item2_name,item2_quantity,item2_unit_price,payment_status,tax_rate
+INV-2024-001,TechCorp Solutions,2024-01-15,5750.25,Software License,10,450.00,Cloud Services,5,250.50,Paid,0.18
+INV-2024-002,Global Innovations,2024-02-20,3620.75,Consulting Hours,16,200.00,Hardware Rental,2,450.25,Pending,0.15
+INV-2024-003,Startup Dynamics,2024-03-10,7890.50,Enterprise Package,3,2500.00,Support Contract,1,890.50,Overdue,0.20

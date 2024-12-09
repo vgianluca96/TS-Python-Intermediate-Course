@@ -1,0 +1,38 @@
+[
+    {
+        "invoice_id": "INV-2024-001",
+        "customer_name": "TechCorp Solutions",
+        "date": "2024-01-15",
+        "total_amount": 5750.25,
+        "items": [
+            {"name": "Software License", "quantity": 10, "unit_price": 450.00},
+            {"name": "Cloud Services", "quantity": 5, "unit_price": 250.50}
+        ],
+        "payment_status": "Paid",
+        "tax_rate": 0.18
+    },
+    {
+        "invoice_id": "INV-2024-002",
+        "customer_name": "Global Innovations",
+        "date": "2024-02-20",
+        "total_amount": 3620.75,
+        "items": [
+            {"name": "Consulting Hours", "quantity": 16, "unit_price": 200.00},
+            {"name": "Hardware Rental", "quantity": 2, "unit_price": 450.25}
+        ],
+        "payment_status": "Pending",
+        "tax_rate": 0.15
+    },
+    {
+        "invoice_id": "INV-2024-003",
+        "customer_name": "Startup Dynamics",
+        "date": "2024-03-10",
+        "total_amount": 7890.50,
+        "items": [
+            {"name": "Enterprise Package", "quantity": 3, "unit_price": 2500.00},
+            {"name": "Support Contract", "quantity": 1, "unit_price": 890.50}
+        ],
+        "payment_status": "Overdue",
+        "tax_rate": 0.20
+    }
+]
