@@ -37,7 +37,7 @@ GitHub Codespaces provides an online development environment powered by Visual S
 #### How to Set Up Codespaces for This Course
 
 1. **Fork this Repository**:
-   - Go to the [TS-Python-Base-Course-Public repository](https://github.com/your-repo-link).
+   - Go to the [TS-Python-Intermediate-Course](https://github.com/giuseppe-testa/TS-Python-Intermediate-Course).
    - Click on the **Fork** button at the top-right corner to create your copy of the repository.
 
 2. **Create a Codespace**:
