@@ -97,7 +97,13 @@ You will not need Python installed on your machine. But, if you are courious, be
 
 #### Day 1
 | Time          | Topic                                | Description                          |
-|---------------|--------------------------------------|--------------------------------------------------|
+|---------------|--------------------------------------|--------------------------------------|
+| **9:30**      | Welcome & Python Basics Recap        | Quick overview of Python basics: syntax, data types, loops, and conditionals. |
+| **10:45**     | Advanced Functions                   | 	Higher-order functions (map, filter, reduce), unpacking arguments, and lambda functions. |
+| **11:15**     | Break                                | Relax and recharge.              |
+| **11:30**     | File Handling                        | Handling text, CSV, and JSON files.  |
+| **12:00**     | Python Syntax Deep Dive              | Explore comprehensions (list, set, dict), unpacking operators, and nested loops. |
+| **12:30**     | Real-World Problem Solving           | Solve intermediate-level problems using advanced data types and functions. |
 
 
 #### Day 2
@@ -105,7 +111,11 @@ You will not need Python installed on your machine. But, if you are courious, be
 
 | Time          | Topic                                | Description                          |
 |---------------|--------------------------------------|--------------------------------------|
-
+| **9:30**      | Revisiting Object-Oriented Programming | Briefly revisit OOP: focus on practical class structures, inheritance, and custom methods.       |
+| **10:30**     | Lab Setup                            | Introduce the lab objective: Working with Python and Large Language Models (LLMs). |
+| **11:00**     | Break                                | Relax and recharge.                                                   |
+| **11:15**     | Lab: Building an LLM Integration     | Hands-on lab to integrate an LLM with Python.  |
+| **12:45**     | Lab Wrap-Up and Discussion           | Present and discuss lab outcomes. Troubleshoot challenges and summarize key takeaways.           |
 
 
 ---
